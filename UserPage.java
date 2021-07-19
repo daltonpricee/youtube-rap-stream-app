@@ -57,7 +57,6 @@ public class UserPage {
     private String url2;
     private int urlIndex;
 
-
     /**
      * Constructor for the UserPage class.
      * Creates UserPage panel. Display when called.
@@ -68,7 +67,6 @@ public class UserPage {
         frame2.setSize(800, 700);
         userPanel.setBackground(Color.black);
         topLeft.setBackground(Color.black);
-        // frame2.setBackground(Color.black);
         topMid.setBackground(Color.black);
         topRight.setBackground(Color.black);
         otherPanel.setBackground(Color.black);
